@@ -1,2 +1,2 @@
-Django==1.11.17
+Django==1.11.28
 twilio==6.7.0
